@@ -136,3 +136,56 @@ span.spans {
     color: #4e4848;
     font-size: 17px
 }
+h3.see-more {
+    width: 82px;
+    bottom: 0;
+    position: relative;
+    left: 965px;
+    padding: 10px 17px;
+    border-radius: 10px;
+    margin-top: 19px;
+    color: orangered;
+}
+/* ------fotter sections start------ */
+.Fotter-details h2 {
+    width: 310px;
+    font-size: 33px;
+    font-family: sans-serif;
+    color: rgb(250, 232, 232);
+    margin: auto;
+}
+.Fotter-details p {
+    width: 338px;
+    color: rgb(255, 234, 234);
+    margin: auto;
+    font-size: 22px;
+    padding-top: 5px;
+}
+
+.Fotter-details h3 {
+    width: 149px;
+    color: rgb(255, 234, 234);
+    margin: auto;
+    padding-top: 5px;
+}
+.fotter-icon i {
+    font-size: 24px;
+    padding: 20px;
+    color: rgb(250, 233, 233);
+}
+.fotter-icon {
+    width: 201px;
+    margin: auto;
+}
+.fotter-section{
+    background-color: #0a0826;
+}
+.fotter-detail{
+      padding-top: 50px;
+      padding-bottom: 50px;
+      
+}
+.fotter-section{
+    margin-top: 50px;
+}
+/* -------fotter sections end-------- */
